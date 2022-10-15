@@ -1,7 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: 主页
+permalink: /
+nav_order: 1
+
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
